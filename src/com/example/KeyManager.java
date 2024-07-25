@@ -1,5 +1,4 @@
 package com.example;
-
 import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;
 import java.io.FileOutputStream;
